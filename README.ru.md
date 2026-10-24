@@ -9,7 +9,7 @@
 Нужны `bash` 4.3+ и `openssl` 1.1.1+. Работает на Linux, macOS (bash из Homebrew) и в Git Bash на Windows.
 
 ```bash
-curl -Ls -o RealiTLScanner.sh https://github.com/nekogs/RealiTLScanner-bash/releases/latest/download/RealiTLScanner.sh
+curl -Ls -o RealiTLScanner.sh https://raw.githubusercontent.com/nekogs/RealiTLScanner-bash/main/RealiTLScanner.sh
 chmod +x RealiTLScanner.sh
 ```
 

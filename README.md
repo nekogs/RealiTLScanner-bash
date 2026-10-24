@@ -9,7 +9,7 @@ A port of [XTLS/RealiTLScanner](https://github.com/XTLS/RealiTLScanner) to Bash.
 Needs `bash` 4.3+ and `openssl` 1.1.1+. Works on Linux, macOS (bash from Homebrew) and in Git Bash on Windows.
 
 ```bash
-curl -Ls -o RealiTLScanner.sh https://github.com/nekogs/RealiTLScanner-bash/releases/latest/download/RealiTLScanner.sh
+curl -Ls -o RealiTLScanner.sh https://raw.githubusercontent.com/nekogs/RealiTLScanner-bash/main/RealiTLScanner.sh
 chmod +x RealiTLScanner.sh
 ```
 

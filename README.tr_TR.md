@@ -9,7 +9,7 @@
 `bash` 4.3+ ve `openssl` 1.1.1+ gerekir. Linux, macOS (Homebrew bash) ve Windows üzerinde Git Bash ile çalışır.
 
 ```bash
-curl -Ls -o RealiTLScanner.sh https://github.com/nekogs/RealiTLScanner-bash/releases/latest/download/RealiTLScanner.sh
+curl -Ls -o RealiTLScanner.sh https://raw.githubusercontent.com/nekogs/RealiTLScanner-bash/main/RealiTLScanner.sh
 chmod +x RealiTLScanner.sh
 ```
 

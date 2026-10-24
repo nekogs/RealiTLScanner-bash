@@ -9,7 +9,7 @@
 需要 `bash` 4.3+ 和 `openssl` 1.1.1+。可在 Linux、macOS（Homebrew 安装的 bash）以及 Windows 的 Git Bash 中运行。
 
 ```bash
-curl -Ls -o RealiTLScanner.sh https://github.com/nekogs/RealiTLScanner-bash/releases/latest/download/RealiTLScanner.sh
+curl -Ls -o RealiTLScanner.sh https://raw.githubusercontent.com/nekogs/RealiTLScanner-bash/main/RealiTLScanner.sh
 chmod +x RealiTLScanner.sh
 ```
 
